@@ -50,8 +50,6 @@ with open('akron1.txt') as csv_file:
                     startpt = desti
                     desti = 0
                     distance = 0
-                    
-
                     #i += 1
                     #interval.append(6)
                 line_count += 1
